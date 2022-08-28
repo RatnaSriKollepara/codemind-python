@@ -1,3 +1,3 @@
 r=int(input())
-ar=3.14*(r**2)
-print("{:.2f}".format(ar))
+area=3.14*r*r
+print('%0.2f'%area)
